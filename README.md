@@ -18,7 +18,7 @@ Installation
 Clone the repository:
 
 ```
-git clone https://github.com/redaxscript/redaxscript.git --branch 4.2.0
+git clone https://github.com/asysc2020/youthsportsboosters.git
 ```
 
 Install the dependencies:
